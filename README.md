@@ -10,4 +10,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;First I will focus on generally describing what's in my mind in this section. I'll be more or less basing on [arc42](https://arc42.org/overview), which gives some tips on how to document a software, as well as [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) for quality attributes.
 
-### Title
+### Naming
+
+&nbsp;&nbsp;&nbsp;&nbsp;The Gwent allows for using one of the few decks of cards used at a single game. There are at least 5 of them:
+- Northern Kingdoms
+- Nilfgaard Empire
+- Scoia'tael
+- Monsters
+- Skellige
+
+Since I want to change things just a little bit, I am going to change a game theme and rename decks and cards. I want it to take place in a postapo / scifi / nature environment, so the decks will named as following:
+- Settlers - create new towns, 
+- Technocrats - possess advanced technological knowledge, but without it are defenceless
+- Ancestrals - lived here since always in jungles, know how to survive in such extreme conditions
+- Dinosaurs - dangerous monsters living in the jungle
+- Nomads - live in small camps, moving all the time, hiding and plundering when an occasion appears
+
+As for names and graphics, I'm not yet sure, but I'm going to be pretty loose about it.
+
+There is a TV series done by Steven Spielberg called "Terranova" It was about a group of people moving back in time to Mesozoic era and trying to make a living there.
+Although the show didn't gain much popularity, I enjoyed it enough to use its name as title for this project.

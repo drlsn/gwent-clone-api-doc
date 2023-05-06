@@ -74,21 +74,39 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 | Quit Game   	|  		|
 
 ##### Statistics
-| Views 	| 
-| -------------	| 
+| Views 	|
+| -------------	|
 | Statistics	|
 
 ##### Out of Scope
 
 &nbsp;&nbsp;&nbsp;&nbsp; xxxx
 
-#### Initial Qualities
+### Initial Qualities
 
-#### Deliverables
+### Deliverables
 
 &nbsp;&nbsp;&nbsp;&nbsp; backend, docs, hosted
 
-#### Team
+### Budget
+
+&nbsp;&nbsp;&nbsp;&nbsp; No
+
+### Team
 
 &nbsp;&nbsp;&nbsp;&nbsp; Alone now, later maybe when ready
+
+## Constraints / Decisions
+
+#### Business
+
+#### Technical
+
+## Context and Scope
+
+### System Level
+
+#### Technical
+
+
 

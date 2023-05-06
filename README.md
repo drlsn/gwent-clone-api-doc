@@ -84,6 +84,8 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 
 ### Initial Qualities
 
+&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning off the top of my head and it would proabably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off - better quality = more time spent. But what do I even mean by quality? ISO!
+
 ### Deliverables
 
 &nbsp;&nbsp;&nbsp;&nbsp; backend, docs, hosted

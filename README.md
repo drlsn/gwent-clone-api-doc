@@ -78,4 +78,17 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 | -------------	| 
 | Statistics	|
 
+##### Out of Scope
+
+&nbsp;&nbsp;&nbsp;&nbsp; xxxx
+
+#### Initial Qualities
+
+#### Deliverables
+
+&nbsp;&nbsp;&nbsp;&nbsp; backend, docs, hosted
+
+#### Team
+
+&nbsp;&nbsp;&nbsp;&nbsp; Alone now, later maybe when ready
 

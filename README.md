@@ -27,12 +27,14 @@ The architecture will derive from those. I will describe them later.
 - Monsters
 - Skellige
 
-&nbsp;&nbsp;&nbsp;&nbsp; Since I want to change things just a little bit, I am going to change a game theme and rename decks and cards. I want it to take place in a postapo / scifi / nature environment, so the decks will named as following, with very brief description, there is no need for much storytelling really:
+&nbsp;&nbsp;&nbsp;&nbsp; Since I want to change things just a little bit, I am going to change a game theme and rename decks and cards. I want it to take place in a postapo / scifi / nature environment, so the decks will named as following, with very brief description, there is no need for much storytelling really, right now at least:
 - Settlers - rather casual people, hard working, create new towns, try to create a normal civilization in this dangerous world
 - Technocrats - possess advanced technological knowledge, but without it are defenceless, not many of them left
 - Ancestrals - lived here since always in the jungles, know how to survive in such extreme conditions
 - Dinosaurs - dangerous monsters
 - Nomads - live in small camps, moving all the time, hiding and plundering when an occasion appears
+
+&nbsp;&nbsp;&nbsp;&nbsp; However, since I don't plan for creating a frontend yet, I'm not certain I'm going to use this naming at all. The best way would be to keep it "lore agnostic" and provide let's say cards and other's names and description from "outside" of the app or maybe in a frontend layer only, so it should not be hardcoded in backend. I need to be careful then with naming things, so it is still understandable to read and relate to original Gwent game and know for instance which card does what. I can imagine already getting lost.
 
 &nbsp;&nbsp;&nbsp;&nbsp; As for names and graphics, I'm not yet sure, but I'm going to be pretty loose about it.
 

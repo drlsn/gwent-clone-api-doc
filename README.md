@@ -16,7 +16,7 @@ The architecture will derive from those. I will describe them later.
 
 ## Initial Design
 
-&nbsp;&nbsp;&nbsp;&nbsp; First I will focus on generally describing what's in my mind in this section. I'll be more or less basing on [arc42](https://arc42.org/overview), which gives some tips on how to document a software, as well as [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) for quality attributes.
+&nbsp;&nbsp;&nbsp;&nbsp; First I will focus on generally describing what's in my mind in this section. I'll be more or less basing on [arc42](https://arc42.org/overview), which gives some tips on how to document a software, as well as [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) for quality attributes. As for the chronology of actions, along with the design progress I am also probably going to do some experimental coding / pseudocoding and try to map gathered knowledge onto the code in order to understand more how it works, in a naive approach first. It will applies only for core logic layer of the game. At the end the architecture will be dictated by many other technical and business factors, not just game rules.
 
 ### Naming
 
@@ -96,19 +96,43 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 
 ### Deliverables
 
-&nbsp;&nbsp;&nbsp;&nbsp; backend, docs, hosted
+- Backend API
+- Documentation
+- Production and Staging application hosted
+
+### Constraints
 
 ### Budget
 
-&nbsp;&nbsp;&nbsp;&nbsp; No
+&nbsp;&nbsp;&nbsp;&nbsp; The costs might appear for hosting, so it is important to minimize it.
 
 ### Team
 
-&nbsp;&nbsp;&nbsp;&nbsp; Alone now, later maybe when ready
+&nbsp;&nbsp;&nbsp;&nbsp; Single member - backend design and development.
+
+### Time
+
+&nbsp;&nbsp;&nbsp;&nbsp; 01.06.23 - 01.08-23 - The time required must include learning, design and development. 
 
 ## Constraints / Decisions
 
 #### Business
+
+##### Technologies basics learned and applied in a project:
+- Nginx
+- Docker / Docker Swarm
+- EF Core 6+ / MSSQL / SQL / T-SQL
+- RabbitMQ
+- Postman
+
+
+##### Concepts basics learned and applied in a project:
+- Continuous Delivery / Integration
+- Vertical Slice Arcchitecture
+- Event Driven Communication
+- CQRS
+- Unit, Integration, E2E, API, Performance Testing
+- REST API
 
 #### Technical
 

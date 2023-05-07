@@ -27,7 +27,7 @@ The architecture will derive from those. I will describe them later.
 - Monsters
 - Skellige
 
-Since I want to change things just a little bit, I am going to change a game theme and rename decks and cards. I want it to take place in a postapo / scifi / nature environment, so the decks will named as following, with very brief description, there is no need for much storytelling really:
+&nbsp;&nbsp;&nbsp;&nbsp; Since I want to change things just a little bit, I am going to change a game theme and rename decks and cards. I want it to take place in a postapo / scifi / nature environment, so the decks will named as following, with very brief description, there is no need for much storytelling really:
 - Settlers - rather casual people, hard working, create new towns, try to create a normal civilization in this dangerous world
 - Technocrats - possess advanced technological knowledge, but without it are defenceless, not many of them left
 - Ancestrals - lived here since always in the jungles, know how to survive in such extreme conditions

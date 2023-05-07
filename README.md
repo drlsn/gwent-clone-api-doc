@@ -34,9 +34,9 @@ Since I want to change things just a little bit, I am going to change a game the
 - Dinosaurs - dangerous monsters
 - Nomads - live in small camps, moving all the time, hiding and plundering when an occasion appears
 
-As for names and graphics, I'm not yet sure, but I'm going to be pretty loose about it.
+&nbsp;&nbsp;&nbsp;&nbsp; As for names and graphics, I'm not yet sure, but I'm going to be pretty loose about it.
 
-There is a TV series done by Steven Spielberg called "Terranova" It was about a group of people moving back in time to Mesozoic era and trying to make a living there.
+&nbsp;&nbsp;&nbsp;&nbsp; There is a TV series done by Steven Spielberg called "Terranova" It was about a group of people moving back in time to Mesozoic era and trying to make a living there.
 Although the show didn't gain much popularity, I enjoyed it enough to use its name as title for this project.
 
 ### Feasibility Reasearch

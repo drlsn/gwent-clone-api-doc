@@ -94,7 +94,10 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 
 ### Initial Qualities
 
-&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning off the top of my head and it would proabably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off - better quality = more time spent. But what do I even mean by quality? ISO!
+&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning off the top of my head and it would proabably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off - better quality = more time spent. But what do I even mean by quality? ISO!  
+
+ISO diagram PNG! link!
+tables !! 3!
 
 ### Deliverables
 
@@ -116,33 +119,37 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 
 &nbsp;&nbsp;&nbsp;&nbsp; 01.06.23 - 01.08-23 - The time required must include learning, design and development. 
 
-## Constraints / Decisions
+## Business and Technical Decisions
 
-#### Business
+&nbsp;&nbsp;&nbsp;&nbsp; Since I want to create this project mainly to learn certain concepts and technologies I am going to combine business and technical decisions together. Initial idea of concepts and technologies basics learned and applied in a project could or could not include following - yet to explore and to be decided:
 
-##### Technologies basics learned and applied in a project:
-- Nginx
-- Docker / Docker Swarm
-- EF Core 6+ / MSSQL / SQL / T-SQL
-- RabbitMQ
-- Postman
+| Concepts 					| Technologies 				| 
+| ---						| --- 					| 
+| Programming Language / Environment 		| c# 10/11, .NET 7			|
+| Development Environment 			| Windows, Docker, Visual Studio	|
+| Production Environment  			| Azure / AWS / Firebase / Docker	|
+| Version Control / Code Hosting		| Git / Github				|
+| CI / CD / Production Deployment  		| Github Actions / Azure Devops	/ AWS ??|
+| Network Communication Protocols  		| HTTP / HTTPS				|
+| Load balancing / Reversed Proxy  		| NGinx					|
+| Microservices as containers   		| Docker / Docker Swarm	 		|
+| Database / ORM / Query Language   		| MSSQL / EF Core 6+ / SQL / T-SQL 	|
+| Message / Events Communication   		| RabbitMQ 				|
+| CQRS						| Mediator, Automapper			|
+| Unit Testing  				| NUnit / xUnit / Moq / NSubstitute 	|
+| Integration Testing				| NUnit / xUnit / Moq / NSubstitute  	|
+| API Testing  					| Postman  				|
+| E2E Testing  					| ???  					|
+| Performance Testing  				| ???  					|
+| Data Caching  				| Redis / Nginx ???			|
 
+#### Addictional concepts:
+- Vertical Slice Architecture
+- REST API / RPC API
 
-##### Concepts basics learned and applied in a project:
-- Continuous Delivery / Integration
-- Vertical Slice Arcchitecture
-- Event Driven Communication
-- CQRS
-- Unit, Integration, E2E, API, Performance Testing
-- REST API
+## System Context
 
-#### Technical
-
-## Context and Scope
-
-### System Level
-
-#### Technical
+diagram and description!
 
 
 

@@ -99,7 +99,9 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 
 ### Initial Qualities
 
-&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning off the top of my head and it would probably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off - better quality = more time spent. But, what do I even mean by quality? I'll try to explore this topic more in this section. First of all, as the biggest influence I'll use [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). I am going to use it in a pragmatic way and modify it for own needs.
+&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning off the top of my head and it would probably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off, better quality = more time spent. But, what do I even mean by quality though? I'll try to explore this topic a bit in this section, but I'll leave details for later.  
+
+&nbsp;&nbsp;&nbsp;&nbsp; First of all, as the biggest influence I'll use [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). I am going to use it in a rather pragmatic way and modify it for own needs.
 
 ![ISO Standard 25010](images/iso-25010.png)
 

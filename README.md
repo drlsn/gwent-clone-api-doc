@@ -138,25 +138,25 @@ next - quality per quality impacts / relations
 
 &nbsp;&nbsp;&nbsp;&nbsp; Since I want to create this project mainly to learn certain concepts and technologies I am going to combine business and technical decisions together. Initial idea of concepts and technologies basics learned and applied in a project could or could not include following - yet to explore and to be decided:
 
-| Concepts 					| Technologies 				| 
-| ---						| --- 					| 
-| Programming Language / Environment 		| c# 10/11, .NET 7			|
-| Development Environment 			| Windows, Docker, Visual Studio	|
-| Production Environment  			| AWS / Linux / Docker			|
-| Version Control / Code Hosting		| Git / Github				|
-| CI / CD / Production Deployment  		| Github Actions / Azure Devops	/ AWS ??|
-| Network Communication Protocols  		| HTTP / HTTPS				|
-| Load balancing / Reversed Proxy  		| NGinx					|
-| Microservices as containers   		| Docker / Docker Swarm	 		|
-| Database / ORM / Query Language   		| MSSQL / EF Core 6+ / SQL / T-SQL 	|
-| Message / Events Communication   		| RabbitMQ 				|
-| CQRS						| Mediator, Automapper			|
-| Unit Testing  				| NUnit / xUnit / Moq / NSubstitute 	|
-| Integration Testing				| NUnit / xUnit / Moq / NSubstitute  	|
-| API Testing  					| Postman  				|
-| E2E Testing  					| ???  					|
-| Performance Testing  				| ???  					|
-| Data Caching  				| Redis / Nginx ???			|
+| Concepts 					| Technologies Chosen			| Why			  		| Alernatives (realistic) 		|
+| ---						| --- 					| 					|					|
+| Programming Language / Environment 		| c# 10/11, .NET 7			|					|					|
+| Development Environment 			| Windows, Docker, Visual Studio	|					|					|
+| Production Environment  			| AWS / Linux / Docker			|					|					|
+| Version Control / Code Hosting		| Git / Github				|					|					|
+| CI / CD / Production Deployment  		| Github Actions / Azure Devops	/ AWS ??|					|					|
+| Network Communication Protocols  		| HTTP / HTTPS				|					|					|
+| Load balancing / Reversed Proxy  		| NGinx					|					|					|
+| Microservices as containers   		| Docker / Docker Swarm	 		|					|					|
+| Database / ORM / Query Language   		| MSSQL / EF Core 6+ / SQL / T-SQL 	|					|					|
+| Message / Events Communication   		| RabbitMQ 				|					|					|
+| CQRS						| Mediator, Automapper			|					|					|
+| Unit Testing  				| NUnit / xUnit / Moq / NSubstitute 	|					|					|
+| Integration Testing				| NUnit / xUnit / Moq / NSubstitute  	|					|					|
+| API Testing  					| Postman  				|					|					|
+| E2E Testing  					| ???  					|					|					|
+| Performance Testing  				| ???  					|					|					|
+| Data Caching  				| Redis / Nginx ???			|					|					|
 
 #### Addictional concepts:
 - Vertical Slice Architecture

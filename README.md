@@ -58,7 +58,8 @@ Although the show didn't gain much popularity, I enjoyed it enough to use its na
 - Making a business app - but my goal is to make a game, though probably a typical app and focusing on solving a realistic problem, could have more value, maybe for other people, maybe for, for a portfolio in more typical business industries other than gamedev.
 
 #### Technical Feasibility
-&nbsp;&nbsp;&nbsp;&nbsp; Done some backend already, but now the focus is more on quality, at least on backend side of it.
+&nbsp;&nbsp;&nbsp;&nbsp; Although I don't have as much experience in backend development yet, I've done [something](https://github.com/drlsn/PageTree) already, so I'm pretty certain I can accomplish the task. Everything depends 
+on how much I am going to focus on quality attributes.
 
 #### Other technical options
 - Unity3D with a networking plugin, ex. Photon
@@ -66,8 +67,8 @@ Although the show didn't gain much popularity, I enjoyed it enough to use its na
 
 #### Proposed Solution
 - .NET microservices, React, HTML, CSS
-- Message Bus, Event driven Architecture, Vertical Slices, both REST or RPC api, NGinX, Docker / Docker Swarm,
-- testing - unit, integration, E2E, performance
+- Message Bus, Event driven Architecture, Vertical Slices, REST or RPC WebApi, NGinX, Docker / Docker Swarm,
+- Testing - unit, integration, E2E, performance
 
 #### Initial Features
 

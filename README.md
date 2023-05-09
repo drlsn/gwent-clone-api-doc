@@ -24,7 +24,7 @@
 
 The architecture will derive from all of these. I will describe everything later.
 
-### Naming
+### Naming / Ubiquitous Language / Theme
 
 &nbsp;&nbsp;&nbsp;&nbsp; The Gwent allows for using one of the few decks of cards used at a single game. There are at least 5 of them:
 - Northern Kingdoms
@@ -40,9 +40,7 @@ The architecture will derive from all of these. I will describe everything later
 - Dinosaurs - dangerous monsters
 - Nomads - live in small camps, moving all the time, hiding and plundering when an occasion appears
 
-&nbsp;&nbsp;&nbsp;&nbsp; However, since I don't plan for creating a frontend yet, I'm not certain I'm going to use this naming at all. The best way would be to keep it "lore agnostic" and provide let's say cards and other's names and description from "outside" of the app or maybe in a frontend layer only, so it should not be hardcoded in backend. I need to be careful then with naming things, so it is still understandable to read and relate to original Gwent game and know for instance which card does what. I can imagine already getting lost.
-
-&nbsp;&nbsp;&nbsp;&nbsp; As for names and graphics, I'm not yet sure, but I'm going to be pretty loose about it.
+&nbsp;&nbsp;&nbsp;&nbsp; However, since I don't plan for creating a frontend yet, I'm not certain I'm going to use this naming at all for now. The best way would be to keep it "lore agnostic" and provide let's say cards and other's names and description from "outside" of the app or maybe in a frontend layer only, so it should not be hardcoded in backend. I need to be careful then with naming things, so it is still understandable to read and relate to original Gwent game and know for instance which card does what.
 
 &nbsp;&nbsp;&nbsp;&nbsp; There is a TV series done by Steven Spielberg called "Terranova" It was about a group of people moving back in time to Mesozoic era and trying to make a living there.
 Although the show didn't gain much popularity, I enjoyed it enough to use its name as title for this project.

@@ -70,30 +70,30 @@ on how much I am going to focus on quality attributes.
 - Message Bus, Event driven Architecture, Vertical Slices, REST or RPC WebApi, NGinX, Docker / Docker Swarm,
 - Testing - unit, integration, E2E, performance
 
-#### Initial Features
+### Initial Features
 
 &nbsp;&nbsp;&nbsp;&nbsp; A project technically has to have defined a start and end, so I need to be pretty specific about I which features and qualities exactly I want to include. After getting familiar with the rules, reading the game wiki or watching some gameplays and seeing the UI I've across with of the initial ideas. These are going to be revised later in the design stage.
 Also, I am going to add a "Statistics" feature, so the players can view each other progress, well.. of course I don't really foresee anyone there, but instead I might actually create some bots for testing purposes in the future, but this is going to be as a scope of another project to minimize effort, first things first.
 
-##### Core Gameplay
+#### Core Gameplay
 
 | Actions 	| Views 	| 
 | -------------	| -------------	| 
 | Play Card  	| Card Board	|
 | Pass Round    |  		|
 
-##### Supporting
+#### Supporting
 | Actions 	| Views 	| 
 | -------------	| -------------	| 
 | Join Game  	| Main Menu	|
 | Quit Game   	|  		|
 
-##### Statistics
+#### Statistics
 | Views 	|
 | -------------	|
 | Statistics	|
 
-##### Out of Scope
+#### Out of Scope
 
 &nbsp;&nbsp;&nbsp;&nbsp; xxxx
 

@@ -6,17 +6,17 @@
 	
 &nbsp;&nbsp;&nbsp;&nbsp; I want to put more emphasis on quality attributes, so I am going to actively develop a well organized technical specification document. Besides it I am also writing this article in a form of blog post, so I can present my thought process in a natural language.
 
+The architecture will derive from those. I will describe them later.
+
+## Initial Design
+
+&nbsp;&nbsp;&nbsp;&nbsp; First I will focus on describing what is really in my mind. I'll be more or less basing on [arc42](https://arc42.org/overview), which gives some tips on how to document a software, as well as [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) for quality attributes. As for the chronology of actions, along with the design progress I am also probably going to do some experimental coding / pseudocoding and try to map gathered knowledge onto the code in order to understand more how it should work, in a naive approach first. It applies for the logic layer of the game as as infrastructure - obviously I should learn how various technologies works. At the end the architecture will be dictated by many other technical and business factors, not just game rules.
+
 &nbsp;&nbsp;&nbsp;&nbsp; There is a concept of architectural drivers, the four groups are:
 - Functional requirements
 - Quality attributes
 - Business constraints
 - Technical constraints
-
-The architecture will derive from those. I will describe them later.
-
-## Initial Design
-
-&nbsp;&nbsp;&nbsp;&nbsp; First I will focus on generally describing what's in my mind in this section. I'll be more or less basing on [arc42](https://arc42.org/overview), which gives some tips on how to document a software, as well as [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) for quality attributes. As for the chronology of actions, along with the design progress I am also probably going to do some experimental coding / pseudocoding and try to map gathered knowledge onto the code in order to understand more how it should work, in a naive approach first. It applies for the logic layer of the game as as infrastructure - obviously I should learn how various technologies works. At the end the architecture will be dictated by many other technical and business factors, not just game rules.
 
 ### Naming
 

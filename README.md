@@ -73,7 +73,7 @@ on how much I am going to focus on quality attributes.
 ### Initial Features
 
 &nbsp;&nbsp;&nbsp;&nbsp; A project technically has to have defined a start and end, so I need to be pretty specific about I which features and qualities exactly I want to include. After getting familiar with the rules, reading the game wiki or watching some gameplays and seeing the UI I've across with of the initial ideas. These are going to be revised later in the design stage.
-Also, I am going to add a "Statistics" feature, so the players can view each other progress, well.. of course I don't really foresee anyone there, but instead I might actually create some bots for testing purposes in the future, but this is going to be as a scope of another project to minimize effort, first things first.
+Also, I am going to add a "Statistics" feature, so the players can view each other progress, well.. of course I don't really foresee anyone there, but instead I might actually create some bots for testing purposes in the future, but this is going to be as a scope of another project to minimize efforts, first things first.
 
 #### Core Gameplay
 
@@ -95,11 +95,11 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 
 #### Out of Scope
 
-&nbsp;&nbsp;&nbsp;&nbsp; xxxx
+&nbsp;&nbsp;&nbsp;&nbsp; ???
 
 ### Initial Qualities
 
-&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning off the top of my head and it would proabably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off - better quality = more time spent. But what do I even mean by quality? ISO!  
+&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning off the top of my head and it would probably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off - better quality = more time spent. But, what do I even mean by quality? I'll try to explore this topic more in this section. First of all, as the biggest influence I'll use [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). I am going to use it in a pragmatic way and modify it for own needs.
 
 ISO diagram PNG! link!
 tables !! 3!

@@ -14,7 +14,7 @@
 - [Software Engineering TutorialsPoint](https://www.tutorialspoint.com/software_engineering/index.htm) - software engineering concepts
 - [C4 Model](https://c4model.com/) - for visualising software architecture
  
-&nbsp;&nbsp;&nbsp;&nbsp; As for the chronology of actions, along with the design progress I am also going to do some experimental coding / pseudocoding and try to map gathered domain or infrastructure knowledge onto the code in order to understand more how it should work, in a naive approach first as a separate mini project or maybe straight into the target one. It applies for the logic layer of the game as well as for infrastructure - obviously I should learn how various technologies works to make a use of it. 
+&nbsp;&nbsp;&nbsp;&nbsp; As for the chronology of actions, along with the design progress I am also going to do some experimental coding/pseudocoding and try to map gathered domain or infrastructure knowledge onto the code in order to understand more how it should work, in a naive approach first as a separate mini project or maybe straight into the target one. It applies for the logic layer of the game as well as for infrastructure - obviously I should learn how various technologies works to make a use of it. 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Eventually, the architecture will be dictated by many factors though, not just game rules. In software architecture there exists is a concept of architectural drivers, the four groups are:
 - Functional requirements
@@ -22,7 +22,7 @@
 - Business constraints
 - Technical constraints
 
-The architecture will derive from al lof these. I will describe everything later.
+The architecture will derive from all of these. I will describe everything later.
 
 ### Naming
 

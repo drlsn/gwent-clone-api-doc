@@ -4,7 +4,7 @@
 	
 &nbsp;&nbsp;&nbsp;&nbsp; My main focus will be directed towards creating a backend or API first, with frontend development being probably a separate project. For educational purposes, I plan to create a bit overengineered version of the game and the knowledge gathered will serve me as a foundation for future projects.
 	
-&nbsp;&nbsp;&nbsp;&nbsp; I want to put much emphasis on quality attributes, so I am going to actively develop a well organized technical specification document. Besides it I am also writing this article in a form of blog post, so I can present my thought process in a natural language.
+&nbsp;&nbsp;&nbsp;&nbsp; I want to put more emphasis on quality attributes, so I am going to actively develop a well organized technical specification document. Besides it I am also writing this article in a form of blog post, so I can present my thought process in a natural language.
 
 &nbsp;&nbsp;&nbsp;&nbsp; There is a concept of architectural drivers, the four groups are:
 - Functional requirements

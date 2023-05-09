@@ -107,6 +107,13 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 
 &nbsp;&nbsp;&nbsp;&nbsp; There is many things to explain here. I am obviously not going to cover every single item from the list. I'll choose many of them and try to organize it in a more understandable for me way and also, based information available through the web, define what it really means. Actually, meanings I'm going to give it might somewhat differ from other definitions, because I'll be leaning towards a pragmatic use of it. The key is to learn how improve the quality of code and other resources and have a measurable, preferably automated way of control over it.
 
+Items (code, net, assets, data, ?? systems scopes ??)  
+based on it - qualities per items I am going to do or research
+next - quality per quality impacts / relations
+- select qualities prioritization - for each project should could have different, 
+    - real-time multiplayer game - graphics and network performance, usability / gameplay, user interface aesthetics
+    - high use web app - scalability, maintainability, 
+
 ### Deliverables
 
 - Backend API

@@ -113,11 +113,32 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 - static assets (graphics, fonts, texts etc.)
 - dynamic data
 
-based on it - qualities per items I am going to do or research
-next - quality per quality impacts / relations
-- select qualities prioritization - for each project should could have different, 
-    - real-time multiplayer game - graphics and network performance, usability / gameplay, user interface aesthetics
-    - high use web app - scalability, maintainability, 
+&nbsp;&nbsp;&nbsp;&nbsp; Architecture derives from architectural drivers and quality attributes can apply to software on multiple levels of:
+- System Level - as a whole, could be multiple distributed services along with external ones - could be 
+- Container Level - a single process app - backend, service, frotend app, mobile app, api gateway, database, message queue
+- Component Level - separate components or layers in a single container
+- Code Level - single methods or lines of codes
+
+Examples:
+| Attribute SubItem 	| System Level							| Container Level			| Component Level 			| Code Level			| Measure Examples			|
+| ---			| ---								| ---					| ---					| ---				| ---					| 
+| Request speed  	| Request trace, time span through multiple services		| Request time span in single service	| 					| Performance of a single method| Requests per seconds			| 
+| Test    		| E2E, API, Integration tests created per endpoint or feature	| API Tests, app layer tests		| Unit tests ??				| Unit tests			| Test coverage, Tests passing		|
+
+&nbsp;&nbsp;&nbsp;&nbsp; Based on these, later I will also provide:
+- which attribute should be applied to which items,
+- what and how each attribute will impact other attribute,
+- what are the selected attribute, priorities and order of developing
+
+Brief descriptions of each attribute, with initally proposed metrics and technical solutions:
+
+#### Functionality
+
+#### Maintainability
+
+#### Security
+
+#### Performance
 
 ### Deliverables
 

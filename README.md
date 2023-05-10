@@ -99,15 +99,20 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 
 ### Initial Qualities
 
-&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning off the top of my head and it would probably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off, better quality = more time spent. But, what do I even mean by quality though? I'll try to explore this topic a bit in this section, but I'll leave details for later.  
+&nbsp;&nbsp;&nbsp;&nbsp; This is going a huge part of this project. On the other hand I could just start coding right now, without planning, off the top of my head and it would probably give some effects, but I wouldn't have much control on the quality of the project. Maybe if the time was a problem, then sure, there is always a trade off, better quality = more time spent. But, what do I even mean by quality though? I'll try to explore this topic a bit in this section, but I'll leave details for later.  
 
 &nbsp;&nbsp;&nbsp;&nbsp; First of all, as the biggest influence I'll use [ISO Standard 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). I am going to use it in a rather pragmatic way and modify it for own needs.
 
 ![ISO Standard 25010](images/iso-25010.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp; There is many things to explain here. I am obviously not going to cover every single item from the list. I'll choose many of them and try to organize it in a more understandable for me way and also, based information available through the web, define what it really means. Actually, meanings I'm going to give it might somewhat differ from other definitions, because I'll be leaning towards a pragmatic use of it. The key is to learn how improve the quality of code and other resources and have a measurable, preferably automated way of control over it.
+&nbsp;&nbsp;&nbsp;&nbsp; There is many things to explain here. I am obviously not going to cover every single item from the list. I'll choose some of them and try to organize it in a more understandable for me way and based information available through the web. Actually, definitions I'm going to give it might be simpler and more pragmatic. The key is to learn how to effectivelly measure the quality of a software and other resources in an automated way.
 
-Items (code, net, assets, data, ?? systems scopes ??)  
+&nbsp;&nbsp;&nbsp;&nbsp; It is important to take multiple parts into consideration:
+- code,
+- networks
+- static assets (graphics, fonts, texts etc.)
+- dynamic data
+
 based on it - qualities per items I am going to do or research
 next - quality per quality impacts / relations
 - select qualities prioritization - for each project should could have different, 

@@ -127,10 +127,10 @@ Examples:
 
 &nbsp;&nbsp;&nbsp;&nbsp; Based on these, later I will also provide:
 - which attribute should be applied to which items,
-- what and how each attribute will impact other attribute,
-- what are the selected attribute, priorities and order of developing
+- what and how the attributes will impact other attributes,
+- what are the chosen attributes per modules, their priorities and order of developing
 
-Brief descriptions of each attribute, with initally proposed metrics and technical solutions:
+&nbsp;&nbsp;&nbsp;&nbsp; Now I will provide brief descriptions of each attribute, with initally proposed metrics and technical solutions:
 
 #### Functionality
 

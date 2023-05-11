@@ -203,7 +203,7 @@ Examples:
 ###### Tools or Technologies
 - Unit, integration, Api, E2E, A/B test
 - Benchmarks and performance tests - spikes, load, endurance, stress, etc.
-- NUnit, Moq, ArchUnitNET
+- NUnit, Moq, ArchUnitNET, Postman
 
 ##### Reusability
 
@@ -215,17 +215,42 @@ Examples:
 
 ##### Observability
 
-&nbsp;&nbsp;&nbsp;&nbsp; Tells how consistent the coding style and conventions are throughout the codebase.
+&nbsp;&nbsp;&nbsp;&nbsp; Tells how much and which logs, metrics is available or gathered and/or what could be missing. Also, if are there monitoring tools for handling production errors or warnings.
+
+###### Examples
+- logs, metrics, traces
+- is a function in separate project or hidden inside, does it depends on current app logic, how abstract is it
+
+###### Tools or Technologies
+- Serilog, Grafana, Prometheus, AppMetrics
 
 #### Security
 
+###### Examples
+- count of reusable units vs not per function, class, module
+
 #### Performance
+
+###### Examples
+- how many external services does a usecase touch causing additional latency
+
+#### Compatibility
+
+##### Interoperability
+
+&nbsp;&nbsp;&nbsp;&nbsp; Tells in what ways the system is able to communicate with external systems or modules.
+
+###### Examples
+- messaging libraries used and their load or efficiency or utilization, usage per all use cases
+- subnets, local networks, containers open ports
+- RabbitMQ
 
 ### Deliverables
 
-- Backend API
+- NGinx API Proxy
+- App Services Containers both in production and staging environments - statistics, game match, wait room, player data, message queue, user data?
+- Authentication Service
 - Documentation
-- Production and Staging application hosted
 
 ### Constraints
 

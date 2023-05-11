@@ -130,7 +130,7 @@ Examples:
 - what and how the attributes will impact other attributes,
 - what are the chosen attributes per modules, their priorities and order of developing
 
-&nbsp;&nbsp;&nbsp;&nbsp; Now I will provide brief descriptions of each attribute, with initally proposed metrics and technical solutions:
+&nbsp;&nbsp;&nbsp;&nbsp; Now I will provide brief descriptions of attributes I am likely to choose, with initally proposed metrics and technical solutions:
 
 #### Functionality
 

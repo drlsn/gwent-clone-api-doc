@@ -134,6 +134,10 @@ Examples:
 
 #### Functionality
 
+##### Functional Completeness
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Maintainability
 
 #### Security

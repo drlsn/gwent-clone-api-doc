@@ -130,15 +130,92 @@ Examples:
 - what and how the attributes will impact other attributes,
 - what are the chosen attributes per modules, their priorities and order of developing
 
-&nbsp;&nbsp;&nbsp;&nbsp; Now I will provide brief descriptions of attributes I am likely to choose, with initally proposed metrics and technical solutions:
+&nbsp;&nbsp;&nbsp;&nbsp; Now I will provide brief descriptions of attributes I am likely to choose, with initally proposed metrics and technical solutions, described in own words. I will treat it more as a brainstorming session to help me in understanding. Eventually all of this information should be presentable in some kind of a dashboard:
 
 #### Functionality
 
 ##### Functional Completeness
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Tells how many of planned features, user stories or functions has been implemented and/or if theyre planned qualities were ensured and to what degree.
+
+###### Examples
+- user stories done per all
+- features done per all
+- qualities ensured per all
+- qualities ensured per feature or user story
+
+###### Tools or Technologies
+- application Layer Tests
+- quality Attributes Tests
+- NUnit, Moq, NSubtitute
 
 #### Maintainability
+
+##### Modularity
+
+&nbsp;&nbsp;&nbsp;&nbsp; Tells how many of separate logical units exists in the system, amount of dependencies user stories or functions has been implemented and/or if theyre planned qualities were ensured and to what degree.
+
+###### Examples
+- services or containers done per all
+- linear or circular dependency counters between or inside containers
+
+###### Tools or Technologies
+- application Layer Tests
+- quality Attributes Tests
+- NUnit, Moq, NSubtitute
+
+##### Cleanliness
+
+&nbsp;&nbsp;&nbsp;&nbsp; Tells general information about the codebase.
+
+###### Examples
+- numbers of line per file - average, max, min, diagram
+- warnings levels and count per container
+- code cleanliness automated analisys per container 
+- linear or circular dependency counters between or inside containers
+
+###### Tools or Technologies
+- SonarQube, cloc
+
+##### Deployability
+
+&nbsp;&nbsp;&nbsp;&nbsp; The ease with which a software can be taken from development to production
+
+###### Examples
+- steps since implementation till production
+- time since implementation till production
+- tools count required for production delivery
+
+##### Consistency
+
+&nbsp;&nbsp;&nbsp;&nbsp; Tells how consistent the coding style and conventions are throughout a codebase.
+
+##### Testability
+
+&nbsp;&nbsp;&nbsp;&nbsp; Tells if the functions, classes, modules, containers and entire system is testable, can dependencies be injected or replaced, what is the code coverage per levels of the system and if how much of edge cases has been covered (bases on automated analisys).
+
+###### Examples
+- count of testable units vs not
+- count of types of tests applied - unit, integration, performance, architecture...
+- count of functions, classes, modules, services covered vs not covered by tests
+- edge cases coverage missing per testable unit
+
+###### Tools or Technologies
+- Unit, integration, Api, E2E, A/B test
+- Benchmarks and performance tests - spikes, load, endurance, stress, etc.
+- NUnit, Moq, ArchUnitNET
+
+##### Reusability
+
+&nbsp;&nbsp;&nbsp;&nbsp; Tells if or how it's easy to reuse a function or component in another project or system.
+
+###### Examples
+- count of reusable units vs not per function, class, module
+- is a function in separate project or hidden inside, does it depends on current app logic, how abstract is it
+
+##### Observability
+
+&nbsp;&nbsp;&nbsp;&nbsp; Tells how consistent the coding style and conventions are throughout the codebase.
 
 #### Security
 

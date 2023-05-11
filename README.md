@@ -120,10 +120,10 @@ Also, I am going to add a "Statistics" feature, so the players can view each oth
 - Code Level - single methods or lines of codes
 
 Examples:
-| Attribute SubItem 	| System Level							| Container Level			| Component Level 			| Code Level			| Measure Examples			|
-| ---			| ---								| ---					| ---					| ---				| ---					| 
-| Request speed  	| Request trace, time span through multiple services		| Request time span in single service	| 					| Performance of a single method| Requests per seconds			| 
-| Test    		| E2E, API, Integration tests created per endpoint or feature	| API Tests, app layer tests		| Unit tests ??				| Unit tests			| Test coverage, Tests passing		|
+| Attribute SubItem| System Level| Container Level| Component Level | Code Level| Measure Examples|  
+| ---| ---| ---| ---| ---| --- |  
+| Request speed | Request trace, time span through multiple services| Request time span in single service|| Performance of a single method|Requests per seconds|  
+| Test| E2E, API, Integration tests created per endpoint or feature | API Tests, app layer tests | Unit tests ?? | Unit tests | Test coverage, Tests passing |
 
 &nbsp;&nbsp;&nbsp;&nbsp; Based on these, later I will also provide:
 - which attribute should be applied to which items,
